@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37327'
     url: http://www.gutenberg.org/2009/agents/37327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34937#Tieck-s-Essay-on-the-Boydell-Shakspere-Gallery
 gutenberg_issued: '2011-01-12'
 gutenberg_type: Text
 identifiers:
