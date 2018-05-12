@@ -1,0 +1,29 @@
+_repo: Tieck-s-Essay-on-the-Boydell-Shakspere-Gallery_34937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Danton, George H. (George Henry)
+    alias: Danton, George Henry
+    birthdate: 1880
+    gutenberg_agent_id: '37327'
+    url: http://www.gutenberg.org/2009/agents/37327
+description: ''
+gutenberg_issued: '2011-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34937'
+  lccn: '12010761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Tieck, Ludwig, 1773-1853'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Illustrations'
+- !lcsh 'Boydell, John, 1720-1804'
+title: Tieck's Essay on the Boydell Shakspere Gallery
+url: http://www.gutenberg.org/ebooks/34937
